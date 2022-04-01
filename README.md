@@ -1,0 +1,1 @@
+Un simple test pour la résolution du Master Mind.
